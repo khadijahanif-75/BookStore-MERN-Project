@@ -1,6 +1,6 @@
 # 📚 BookStore MERN Stack Application
 
-A full-stack BookStore web application built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). This app allows users to browse, add, update, and delete books from the store. Admin functionalities can be added for managing inventory.
+A full-stack BookStore web application built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). This app allows users to browse, add, update, and delete books from the store.
 
 
 ## Features
@@ -28,6 +28,7 @@ A full-stack BookStore web application built using the **MERN Stack** (MongoDB, 
 - Mongoose  
 - JSON 
 
+
 ##  Installation
 
 ### Prerequisites
@@ -35,6 +36,7 @@ A full-stack BookStore web application built using the **MERN Stack** (MongoDB, 
 - Node.js and npm
 - MongoDB (local or cloud)
 - Git
+
 
 ## 📂 Folder Structure
 
